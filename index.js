@@ -11,6 +11,10 @@ const Quote = require('inspirational-quotes');
 var myQuote = Quote.getRandomQuote();
 console.log(myQuote);
 
+const lib = require('thoughts');
+var myThoughts = lib.random();
+console.log(myThoughts);
+
 //copy information to a file
 const fs = require("fs");
 fs.writeFileSync("file1.txt", mySuperHeroName);
