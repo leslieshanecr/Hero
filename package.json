@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "inspirational-quotes": "^1.0.8",
+    "popular-movie-quotes": "^1.2.3",
     "superheroes": "^3.0.0",
     "supervillains": "^3.0.0",
     "thoughts": "^2.1.0"
